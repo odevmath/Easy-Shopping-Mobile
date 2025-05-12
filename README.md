@@ -29,12 +29,11 @@ O projeto está estruturado da seguinte forma:
 - **CSS3** - Estilização e responsividade do layout.
 - **Google Fonts** - Fonte 'Oswald' para o design.
 
-### Como Usar 🚀
+### 🚀 Acesse o Projeto Easy Shopping Mobile!
 
-1. Clone este repositório ou baixe o código.
-2. Abra o arquivo `index.html` no seu navegador preferido.
-3. O layout será carregado automaticamente.
-4. A página se adapta a diferentes tamanhos de tela (desktop e mobile).
+Experimente o **Easy Shopping Mobile** diretamente no seu navegador! 🌐
+
+[👉 Acesse aqui o projeto Easy Shopping Mobile](https://odevmath.github.io/Easy-Shopping-Mobile/) 💻📱
 
 ## Requisitos 📝
 
